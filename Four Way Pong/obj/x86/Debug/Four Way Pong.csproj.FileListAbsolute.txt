@@ -1,0 +1,56 @@
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\Content\Paddle.xnb
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\Four Way Pong.exe
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\Four Way Pong.pdb
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.dll
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.xml
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Four Way Pong\Four Way Pong\Four Way Pong\obj\x86\Debug\Four Way Pong.csprojResolveAssemblyReference.cache
+E:\Four Way Pong\Four Way Pong\Four Way Pong\obj\x86\Debug\Four Way Pong.exe
+E:\Four Way Pong\Four Way Pong\Four Way Pong\obj\x86\Debug\Four Way Pong.pdb
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\Four Way Pong.exe.config
+E:\Four Way Pong\Four Way Pong\Four Way Pong\bin\Windows\Debug\Content\font.xnb
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\Four Way Pong.exe.config
+E:\Four Way Pong\Four Way Pong\obj\x86\Debug\Four Way Pong.exe
+E:\Four Way Pong\Four Way Pong\obj\x86\Debug\Four Way Pong.pdb
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\Content\font.xnb
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\Content\Paddle.xnb
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\Four Way Pong.exe
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\Four Way Pong.pdb
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.dll
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.xml
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Four Way Pong\Four Way Pong\obj\x86\Debug\Four Way Pong.csprojResolveAssemblyReference.cache
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\Four Way Pong.exe.manifest
+E:\Four Way Pong\Four Way Pong\bin\Windows\Debug\Four Way Pong.application
+E:\Four Way Pong\Four Way Pong\obj\x86\Debug\Four Way Pong.exe.manifest
+E:\Four Way Pong\Four Way Pong\obj\x86\Debug\Four Way Pong.application
